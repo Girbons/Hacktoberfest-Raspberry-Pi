@@ -4,3 +4,6 @@
 [submodule "IoT/GreenPiThumb"]
 	path = IoT/GreenPiThumb
 	url = https://github.com/JeetShetty/GreenPiThumb.git
+[submodule "IoT/Domotic"]
+    path = IoT/Domotic
+    url = https://github.com/Girbons/Domotic
